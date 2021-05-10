@@ -20,29 +20,12 @@ We were able to achieve an RMSE of 0.06
 
 ## Results
 
-  **Top 10 Undervalued Season from 2000-2017**
+  **Top 5 Undervalued Season from 2000-2017**
   
-  1. Karl-Anthony-Towns (2017)
-  2. Paul Pierce (2001)
-  3. Isaiah Thomas (2017)
-  4. Nikola Jokic (2017)
-  5. Dirk Nowitzki (2001)
-  6. Lebron James (2005)
-  7. CJ McCollum (2016)
-  8. Chris Paul (2008)
-  9. Michael Jordan (2002)
-  10. Vince Carter (2001)
+  1. Lebron James (2006)
+  2. Lebron James (2005)
+  3. Stephen Curry (2016)
+  4. Isaiah Thomas (2017)
+  5. Vince Carter (2001)
   
-  **Top 10 Overvalued Seasons from 2000-2017**
-  
-  1. Alonzo Mourning (2002)
-  2. Juwan Howard (2002)
-  3. Kevin Garnett (2002)
-  4. Juwan Howard (2001)
-  5. Alonzo Mourning (2001)
-  6. Shawn Kemp (2003)
-  7. Kevin Garnett (2003)
-  8. Scottie Pippen (2002)
-  9. Kobe Bryant (2013)
-  10. Shawn Kemp (2002)
 
